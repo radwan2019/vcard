@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:مخابز ومطاعم وحلويات السنبلة
+TITLE:بيت العيلة
+TEL;TYPE=cell:+0791555444
+EMAIL:info@sinboulah.net
+URL:https://https://web.facebook.com/alsunbulah.food/?locale=ar_AR&_rdc=1&_rdr
